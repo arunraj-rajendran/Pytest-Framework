@@ -1,2 +1,2 @@
 # HertzDigital-Android-Automation
-Test Automation suite for Hertz Digital Android App
+Test Automation frame work for web, mobile, API (Rest assured) using Java selenium
