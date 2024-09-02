@@ -1,0 +1,13 @@
+.vscode/
+.venv
+.env
+__pycache__
+*.log
+*.code-workspace
+data.txt
+*.html
+Screenshots/
+Pages/__pycache__
+Config/__pycache__
+Tests/__pycache__
+ReportDownloads
